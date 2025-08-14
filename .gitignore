@@ -1,0 +1,3 @@
+configs/
+metadata/
+*.ipynb_checkpoints*
