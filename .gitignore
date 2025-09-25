@@ -1,3 +1,5 @@
 configs/
 metadata/
 *.ipynb_checkpoints*
+*.out
+results/
